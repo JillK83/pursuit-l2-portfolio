@@ -23,7 +23,7 @@ password: Password123!
 2 sided web app Door 1: Care Console — internal coordinator tool for home health agency staff to manage client assignments and identify care deserts Door 2: Care Compass — public-facing consumer tool for families to find Medicare-certified home health agencies near them 
 data visualization: https://home-care-outlook.netlify.app/
 https://github.com/JillK83/care-compass
-deployed link: care-compass-console.vercel.app 
+deployed links: care-compass-console.vercel.app 
 Email/Username: demo@carecompass.test
 Password:CareDemo2026!
 

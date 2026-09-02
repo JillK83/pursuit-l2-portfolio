@@ -37,10 +37,10 @@ deployed link: https://beautyagent-ai.vercel.app/
 PA Status Relay is a workflow prototype for oncology infusion coordinators. It demonstrates manually logged prior-authorization status transitions, required-metadata enforcement, patient-message previews, consent gating, and immutable audit evidence for infused, buy-and-bill drugs
 
 https://github.com/capstone-pa-status-relay/pa-status-relay
-Deployed link: https://pa-status-relay.vercel.app/
+Deployed link: https://pa-status-relay-psi.vercel.app/
 login/password for demo/notes: demo resets in case drawer, bottom button-"reset to baseline" 
-Email/Username: coordinator@pastatusrelay.demo
-Password:PaStatusRelay2026!
+Email/Username: staff@pastatusrelay.demo
+Password: DemoPA26!
 
 ## 🛠️ Tech Stack
 React, Vite, Supabase, Python, Typescript, CSS, HTML, Javascript

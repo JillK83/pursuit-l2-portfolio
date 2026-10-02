@@ -10,8 +10,8 @@ I'm a builder who ships. Over four cycles at Pursuit, I went from foundational f
 ### Cycle 1: Grailed Clone and New Feature 
 A clone-then-redesign demo project based on Grailed.com, a peer-to-peer fashion resale marketplace. Week 1 reproduces the core offer flow, Week 2 introduces a net-new Buyer Offer Transparency Panel. 
 
-clone week 1: https://github.com/tiffanyarnold/grailedclone
-new feature week 2: https://github.com/tiffanyarnold/grailedclone-v2
+clone week 1: https://github.com/JillK83/grailedclone
+new feature week 2: https://github.com/JillK83/grailedclone-v2
 
 deployed link clone: https:/https://grailedclone.vercel.app/
 deployed link net new feature: https://grailedclone-offerflow.vercel.app/
